@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace VK_Liker
+namespace VKLiker.WebUI
 {
     public class MvcApplication : System.Web.HttpApplication
     {
